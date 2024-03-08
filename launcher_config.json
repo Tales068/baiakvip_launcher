@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/Tales068/baiakvip_launcher/releases/download/v1.0.0/baiakvip-update.zip",
-	"clientExecutable": "empera.exe"
+	"clientExecutable": "baiakvip.exe"
 }
