@@ -1,6 +1,6 @@
 {
 	"clientVersion": "13.22.14520",
-	"launcherVersion": "1.0.0",
+	"launcherVersion": "1.0.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Tales068/baiakvip_launcher/releases/download/v1.0.0/baiakvip-update.zip",
+	"newClientUrl" : "https://github.com/Tales068/baiakvip_launcher/releases/download/v1.0.1/baiakvip-update.zip",
 	"clientExecutable": "baiakvip.exe"
 }
